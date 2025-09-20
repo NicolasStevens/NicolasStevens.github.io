@@ -10,4 +10,3 @@ redirect_from:
 I am a postdoctoral researcher affiliated with the Max Planck Institute for Research on Collective Goods. I hold a PhD in Applied Mathematics from CORE/LIDAM, UCLouvain obtained in December 2024.
 My research fields are operations research and energy economics.
 
-(https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.

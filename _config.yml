@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "NicolasStevens2.jpg"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  name             : "Nicolas Stevens"
   pronouns         : # example: "she/her"  
   bio              : "Post-doctoral researcher"
   employer         : "Max Planck Institute for Research on Collective Goods"
-  location         : "Bonn, Germany"
+  location         : "Bonn, Germany / Brussels, Belgium"
   uri              : # URL
   email            : "stevens@coll.mpg.de" 
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : Nicolas Stevens
+  linkedin         : "https://www.linkedin.com/in/nicolas-stevens-ba145b116/?originalSubdomain=be"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

@@ -3,7 +3,6 @@ title: "Dynamic dimensioning approach for operating reserves: Proof of concept i
 collection: publications
 category: manuscripts
 permalink: /publication/DeVos2019
-excerpt: 'This paper is about the ...'
 date: 2019-01-01
 venue: 'Energy Policy'
 paperurl: 'https://NicolasStevens.github.io/files/DeVos2019.pdf'

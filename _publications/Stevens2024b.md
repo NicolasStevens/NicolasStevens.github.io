@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/Stevens2024b
 date: 2024-01-01
 venue: 'Energy Economics'
+slidesurl: 'https://NicolasStevens.github.io/files/MIT_LIDSseminar2024Vsent.pdf'
 paperurl: 'https://NicolasStevens.github.io/files/Stevens2024b.pdf'
 citation: 'Stevens, N., Papavasiliou, A., and Smeers, Y. (2024). On some advantages of convex hull pricing for the European electricity auction. Energy Economics, 134, 107542.'
 ---

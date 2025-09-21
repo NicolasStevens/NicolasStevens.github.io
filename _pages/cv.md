@@ -21,29 +21,25 @@ Education
 
 Work experience
 ======
-* Feb 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Feb 2024 - present: Post-doctoral researcher
+  * Max Planck Institute for Research on Collective Goods & Forward
+Market Design
+  * Research under the supervision of Prof. Axel Ockenfels and Prof. Peter Cramton.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Dec. 2024 – Jan.2024: Post-doctoral researcher
+  * CORE, UCLouvain
+  * Under the supervision of Prof. Anthony Papavasiliou.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Nov. 2020 – Dec. 2024: PhD student
+  * CORE, UCLouvain
+  * The thesis, titled “Price Formation with Non-Convexities: Theory and Applications for the Electricity Market”, is conducted under the supervision of Prof. Anthony Papavasiliou and Prof. Bert Willems.
+ 
+* Sep. 2019 – Nov. 2020: Senior Consultant in Optimization and Energy Markets
+  * N-SIDE, Belgium
+  * Working on projects relying on applied mathematics to address issues in the energy sector. Working with various stakeholders (TSO, DSO, Power Exchange).
+ 
+* Sep. 2016 – Sep. 2019: Consultant in Optimization and Energy Markets
+  * N-SIDE, Belgium
 
 Publications
 ======
@@ -63,6 +59,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Rewiewing activities
 ======
-* Currently signed in to 43 different slack teams
+Reviewer for the Energy Journal, Energy Economics, IEEE Transactions on Energy Markets, Policy, and Regulation, IEEE Transactions on Power Systems.
+
+

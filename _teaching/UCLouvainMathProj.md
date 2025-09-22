@@ -8,6 +8,4 @@ date: 2020-01-01
 location: "Louvain-la-Neuve, Belgium"
 ---
 
-Course description 
-======
 The workload implied 2h of supervision session per week with under-graduate students as well as the writing of the assignment for the project.

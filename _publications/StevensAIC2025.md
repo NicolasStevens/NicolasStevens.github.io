@@ -4,8 +4,8 @@ collection: publications
 category: workingpaper
 permalink: /publication/StevensAIC2025
 excerpt: 'Joint work with Richard ONeill and Anthony Papavasiliou.'
-date: 2024-01-01
-venue: 'Energy Economics'
+date: 2025-06-01
+venue: 'Working Paper'
 slidesurl: 'https://NicolasStevens.github.io/files/2025a-IAEE_Paris_2.pdf'
 paperurl: 'https://NicolasStevens.github.io/files/Stevens2025.pdf'
 bibtexurl: ''

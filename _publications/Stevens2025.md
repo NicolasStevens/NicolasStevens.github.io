@@ -11,3 +11,5 @@ paperurl: 'https://NicolasStevens.github.io/files/Stevens2025.pdf'
 bibtexurl: ''
 citation: 'Stevens, N., O’Neill, R., and Papavasiliou, A. Average incremental cost pricing in electricity auctions. Working paper.'
 ---
+
+Test.

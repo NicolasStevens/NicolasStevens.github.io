@@ -1,5 +1,5 @@
 ---
-title: "Average incremental cost pricing in electricity auctions"
+title: "Test"
 collection: publications
 category: manuscripts
 permalink: /publication/StevensAIC2025
@@ -11,4 +11,5 @@ paperurl: 'https://NicolasStevens.github.io/files/Stevens2025.pdf'
 bibtexurl: ''
 citation: 'Stevens, N., Papavasiliou, A., and Smeers, Y. (2024). On some advantages of convex hull pricing for the European electricity auction. Energy Economics, 134, 107542.'
 ---
+
 Since the liberalization

@@ -3,7 +3,7 @@ title: "On some advantages of convex hull pricing for the European electricity a
 collection: publications
 category: manuscripts
 permalink: /publication/Stevens2024b
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Joint work with Anthony Papavasiliou and Yves Smeers.'
 date: 2024-01-01
 venue: 'Energy Economics'
 slidesurl: 'https://NicolasStevens.github.io/files/MIT_LIDSseminar2024Vsent.pdf'

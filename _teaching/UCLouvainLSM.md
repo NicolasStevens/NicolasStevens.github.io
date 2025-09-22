@@ -7,3 +7,4 @@ venue: "UCLouvain, LSM (LLSMS2052), graduate course"
 date: 2025-01-01
 location: "Louvain-la-Neuve, Belgium"
 ---
+with Prof. Bert Willems.

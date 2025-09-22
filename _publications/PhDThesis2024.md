@@ -3,7 +3,7 @@ title: "Price Formation with Non-Convexities: Theory and Applications for the El
 collection: publications
 category: thesis
 permalink: /publication/PhDThesis2024
-excerpt: '-'
+excerpt: 'This is my doctoral dissertation.'
 date: 2024-12-01
 venue: 'UCLouvain (doctoral dissertation)'
 slidesurl: 'https://NicolasStevens.github.io/files/PublicDefense2024_short.pdf'

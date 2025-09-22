@@ -5,10 +5,10 @@ category: thesis
 permalink: /publication/PhDThesis2024
 excerpt: '-'
 date: 2024-12-01
-venue: 'UCLouvain'
+venue: 'UCLouvain (doctoral dissertation)'
 slidesurl: 'https://NicolasStevens.github.io/files/PublicDefense2024_short.pdf'
 paperurl: 'https://NicolasStevens.github.io/files/StevensThesis2024.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+bibtexurl: ''
 citation: 'Stevens, N. (2024). Price Formation with Non-Convexities: Theory and Applications for the Electricity Market (Doctoral dissertation, UCLouvain).'
 ---
 Since the restructuring policies that led to the liberalization of the electricity sector

@@ -4,7 +4,7 @@ collection: teaching
 type: "Course"
 permalink: /teaching/UCLouvainQEE
 venue: "UCLouvain, EPL (LINMA2415), graduate course"
-date: 2022-01-01
+date: 2024-01-01
 location: "Louvain-la-Neuve, Belgium"
 ---
-
+with Gauthier de Maere (PhD, invited Prof.).

@@ -1,7 +1,7 @@
 ---
 title: "Average incremental cost pricing in electricity auctions"
 collection: publications
-category: manuscripts
+category: workingpaper
 permalink: /publication/StevensAIC2025
 excerpt: 'Joint work with Richard ONeill and Anthony Papavasiliou.'
 date: 2024-01-01

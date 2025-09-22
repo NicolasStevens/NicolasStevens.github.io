@@ -21,12 +21,12 @@ Education
 
 Work experience
 ======
-* Feb 2024 - present: Post-doctoral researcher
+* Feb 2025 - present: Post-doctoral researcher
   * Max Planck Institute for Research on Collective Goods & Forward
 Market Design
-  * Research under the supervision of Prof. Axel Ockenfels and Prof. Peter Cramton.
+  * Research under the supervision of Prof. Peter Cramton and Prof. Axel Ockenfels.
 
-* Dec. 2024 – Jan.2024: Post-doctoral researcher
+* Dec. 2024 – Jan.2025: Post-doctoral researcher
   * CORE, UCLouvain
   * Under the supervision of Prof. Anthony Papavasiliou.
 

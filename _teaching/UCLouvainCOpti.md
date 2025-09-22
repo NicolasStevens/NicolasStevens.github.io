@@ -8,8 +8,6 @@ date: 2021-01-01
 location: "Louvain-la-Neuve, Belgium"
 ---
 
-Course description 
-======
 The course material was mostly based on the Integer Programming book by Laurence Wolsey.
-The workload implied 2h of exercise session per week with ~30 graduate students as well as the writing of the assignment for three homework and the correction of the students’ works.
+The workload implied 2h of exercise session per week with approx. 30 graduate students as well as the writing of the assignment for three homework and the correction of the students’ works.
 

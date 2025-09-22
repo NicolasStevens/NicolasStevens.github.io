@@ -8,6 +8,4 @@ date: 2025-01-01
 location: "Louvain-la-Neuve, Belgium"
 ---
 
-Course description 
-======
-This course is the energy economics course of the Louvain School of Management. The professor invited me to teach one lecture on a topic related to my PhD.
+This course is the energy economics course of the Louvain School of Management. I was invited to teach one lecture on a topic related to my PhD.

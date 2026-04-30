@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 I am a postdoctoral researcher affiliated with the Max Planck Institute for Research on Collective Goods, doing research under the supervision of Prof. [Peter Cramton](https://cramton.umd.edu/).
-I hold a PhD in Mathematical Engineering from the Center for Operations Research and Econometrics (CORE/LIDAM), UCLouvain, obtained in December 2024 under the supervision of Prof. [Anthony Papavasiliou](https://ap-rg.eu/) and Prof. [Bert Willems](https://www.bertwillems.com/).
+I hold a PhD in Mathematical Engineering from the Center for Operations Research and Econometrics (CORE/LIDAM), UCLouvain, obtained in December 2024 under the supervision of Prof. [Anthony Papavasiliou](https://ap-rg.eu/).
 
 My research fields are applied mathematics, operations research and energy economics. Check my ongoing research projects and working papers in the page "Publications".

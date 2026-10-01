@@ -21,25 +21,25 @@ Education
 
 Work experience
 ======
-* Feb 2025 - present: Post-doctoral researcher
+* Incoming FNRS Postdoctoral Researcher (2027–2030)
+
+* 2026 - present: Post-doctoral researcher
+  * Inria center of the university of Lille
+  * Research under the supervision of Helene Le Cadre.
+ 
+* 2025 - 2026: Post-doctoral researcher
   * Max Planck Institute for Research on Collective Goods & Forward
 Market Design
   * Research under the supervision of Prof. Peter Cramton and Prof. Axel Ockenfels.
 
-* Dec. 2024 – Jan.2025: Post-doctoral researcher
-  * CORE, UCLouvain
-  * Under the supervision of Prof. Anthony Papavasiliou.
-
-* Nov. 2020 – Dec. 2024: PhD student
+* 2020 – 2024: PhD student
   * CORE, UCLouvain
   * The thesis, titled “Price Formation with Non-Convexities: Theory and Applications for the Electricity Market”, is conducted under the supervision of Prof. Anthony Papavasiliou and Prof. Bert Willems.
  
-* Sep. 2019 – Nov. 2020: Senior Consultant in Optimization and Energy Markets
+* 2016 – 2020: Consultant, then Senior Consultant, in Optimization and Energy Markets
   * N-SIDE, Belgium
   * Working on projects relying on applied mathematics to address issues in the energy sector. Working with various stakeholders (TSO, DSO, Power Exchange).
- 
-* Sep. 2016 – Sep. 2019: Consultant in Optimization and Energy Markets
-  * N-SIDE, Belgium
+
 
 Publications
 ======

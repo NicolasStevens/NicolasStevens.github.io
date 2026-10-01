@@ -1,5 +1,5 @@
 ---
-title: "Dreze 2026 researchers' workshop: Does Financial Trading Smooth Non-Convex Markets?"
+title: "Dreze 2026 young researchers' workshop: Does Financial Trading Smooth Non-Convex Markets?"
 collection: talks
 type: "Conference"
 permalink: /talks/DrezeWorkshop2026
